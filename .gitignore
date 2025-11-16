@@ -1,1 +1,5 @@
+# ignore editor files
 .idea/
+
+# ignore executable file
+passgen
