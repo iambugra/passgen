@@ -125,7 +125,7 @@ This tool uses Go's `crypto/rand` package, which provides cryptographically secu
 
 ## Author
 
-[Buğra Alparslan (g is silent)](https://github.com/iambugra)
+[Buğra Alparslan](https://github.com/iambugra)
 
 ---
 
